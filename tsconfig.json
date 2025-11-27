@@ -1,0 +1,1 @@
+{"compileOnSave":false,"compilerOptions":{"target":"es2017","module":"es2020","moduleResolution":"node","experimentalDecorators":true,"emitDecoratorMetadata":true,"importHelpers":true,"outDir":"./out-tsc","strict":true,"skipLibCheck":true,"lib":["es2018","dom"]}}
